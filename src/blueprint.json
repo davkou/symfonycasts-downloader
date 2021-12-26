@@ -1,5 +1,5 @@
 {
-    "Symfony UX": {
+    "Symfony UX: Stimulus": {
         "sux": "screencast/stimulus/ux",
         "senc": "screencast/stimulus/encore",
         "437": "screencast/stimulus/encore/activity/437",
@@ -122,7 +122,6 @@
         "broadcast-remove#play": "screencast/turbo/broadcast-remove#play",
         "toast#play": "screencast/turbo/toast#play"
     },
-    "Symfony UX: Stimulus": [],
     "The Delightful World of Vue Part 2": {
         "setup": "\/screencast\/vue2\/setup",
         "product-show-page": "\/screencast\/vue2\/product-show-page",
@@ -179,7 +178,10 @@
         "v-model-custom-component": "\/screencast\/vue2\/v-model-custom-component",
         "v-bind-object": "\/screencast\/vue2\/v-bind-object",
         "checkout-submit": "\/screencast\/vue2\/checkout-submit",
-        "unexpected-errors": "\/screencast\/vue2\/unexpected-errors"
+        "unexpected-errors": "\/screencast\/vue2\/unexpected-errors",
+        "form-validation" : "screencast/vue2/form-validation",
+        "client-validation#play": "screencast/vue2/client-validation#play",
+        "losing-reactivity#play": "screencast/vue2/losing-reactivity#play"
     },
     "Symfony Live Paris 2020 (French)": {
         "keynote": "\/screencast\/paris2020\/keynote",
