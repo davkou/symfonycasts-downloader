@@ -1012,7 +1012,7 @@
         "relationship-types": "\/screencast\/doctrine-relations\/relationship-types",
         "many-to-many": "\/screencast\/doctrine-relations\/many-to-many",
         "many-to-many-save": "\/screencast\/doctrine-relations\/many-to-many-save",
-        "many-to-many-joins": "\/screencast\/doctrine-relations\/many-to-many-joins",
+        "many-to-many-joins": "\/screencast\/doctrine-relations\/many-to-many-joins"
     },
     "Mastering Doctrine Relations! 2021": {
         "answer" : "screencast/doctrine-relations/answer",
