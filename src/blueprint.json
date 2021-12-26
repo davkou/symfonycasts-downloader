@@ -1012,7 +1012,36 @@
         "relationship-types": "\/screencast\/doctrine-relations\/relationship-types",
         "many-to-many": "\/screencast\/doctrine-relations\/many-to-many",
         "many-to-many-save": "\/screencast\/doctrine-relations\/many-to-many-save",
-        "many-to-many-joins": "\/screencast\/doctrine-relations\/many-to-many-joins"
+        "many-to-many-joins": "\/screencast\/doctrine-relations\/many-to-many-joins",
+    },
+    "Mastering Doctrine Relations! 2021": {
+        "answer" : "screencast/doctrine-relations/answer",
+        "many-to-one#play" : "screencast/doctrine-relations/many-to-one#play",
+        "saving-relations" : "screencast/doctrine-relations/saving-relations",
+        "foundry-relations#play" : "screencast/doctrine-relations/foundry-relations#play",
+        "foundry-factory-relation#play" : "screencast/doctrine-relations/foundry-factory-relation#play",
+        "fetching-relations#play" : "screencast/doctrine-relations/fetching-relations#play",
+        "rendering" : "screencast/doctrine-relations/rendering",
+        "owning-vs-inverse#play" : "screencast/doctrine-relations/owning-vs-inverse#play",
+        "orderby-extra-lazy" : "screencast/doctrine-relations/orderby-extra-lazy",
+        "answer-status#play" : "screencast/doctrine-relations/answer-status#play",
+        "collection-criteria#play" : "screencast/doctrine-relations/collection-criteria#play",
+        "popular-answers" : "screencast/doctrine-relations/popular-answers",
+        "string-component#play" : "screencast/doctrine-relations/string-component#play",
+        "join-n-plus-one#play" : "screencast/doctrine-relations/join-n-plus-one#play",
+        "search-form" : "screencast/doctrine-relations/search-form",
+        "relationship-types" : "screencast/doctrine-relations/relationship-types",
+        "many-to-many#play" : "screencast/doctrine-relations/many-to-many#play",
+        "many-to-many-saving" : "screencast/doctrine-relations/many-to-many-saving",
+        "many-to-many-factory" : "screencast/doctrine-relations/many-to-many-factory",
+        "many-to-many-joins#play" : "screencast/doctrine-relations/many-to-many-joins#play",
+        "complex-many-to-many#play" : "screencast/doctrine-relations/complex-many-to-many#play",
+        "broken-migration#play" : "screencast/doctrine-relations/broken-migration#play",
+        "question-tag-fixtures" : "screencast/doctrine-relations/question-tag-fixtures",
+        "foundry-phd#play" : "screencast/doctrine-relations/foundry-phd#play",
+        "complex-many-joins#play" : "screencast/doctrine-relations/complex-many-joins#play",
+        "pagination#play" : "screencast/doctrine-relations/pagination#play",
+        "pager-links#play" : "screencast/doctrine-relations/pager-links#play"
     },
     "Creating a Reusable (& Amazing) Symfony Bundle": {
         "bundle-directory": "\/screencast\/symfony-bundle\/bundle-directory",
@@ -2329,4 +2358,4 @@
         "doctrine-listener-update": "\/screencast\/symfony2-ep3\/doctrine-listener-update",
         "outro": "\/screencast\/symfony2-ep3\/outro"
     }
-}
+},
