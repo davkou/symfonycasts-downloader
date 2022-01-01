@@ -556,7 +556,26 @@
         "zle-uzywasz-doctrinea": "\/screencast\/warszawa2019\/zle-uzywasz-doctrinea",
         "demystifying-react-for-symfony-developers": "\/screencast\/warszawa2019\/demystifying-react-for-symfony-developers"
     },
-    "Write SOLID Code & Impress your Friends": [],
+    "Write SOLID Code & Impress your Friends": {
+        "solid" : "screencast/solid/solid",
+        "srp-defined#play" : "screencast/solid/srp-defined#play",
+        "srp-responsibilities#play" : "screencast/solid/srp-responsibilities#play",
+        "srp-refactoring#play" : "screencast/solid/srp-refactoring#play",
+        "srp-takeaways#play" : "screencast/solid/srp-takeaways#play",
+        "ocp#play" : "screencast/solid/ocp#play",
+        "ocp-tag#play" : "screencast/solid/ocp-tag#play",
+        "ocp-takeaways#play" : "screencast/solid/ocp-takeaways#play",
+        "liskov-definition#play" : "screencast/solid/liskov-definition#play",
+        "liskov-exception#play": "screencast/solid/liskov-exception#play",
+        "liskov-replacement#play" : "screencast/solid/liskov-replacement#play",
+        "liskov-changes#play" : "screencast/solid/liskov-changes#play",
+        "liskov-takeaways#play" : "screencast/solid/liskov-takeaways#play",
+        "isp#play" : "screencast/solid/isp#play",
+        "isp-takeaways#play": "screencast/solid/isp-takeaways#play",
+        "dip#play" : "screencast/solid/dip#play",
+        "dip-refactoring#play" : "screencast/solid/dip-refactoring#play",
+        "dip-takeaways#play" : "screencast/solid/dip-takeaways#play"
+    },
     "Symfony Mailer: Love Sending Emails Again": {
         "install-mailer": "\/screencast\/mailer\/install-mailer",
         "email-object": "\/screencast\/mailer\/email-object",
