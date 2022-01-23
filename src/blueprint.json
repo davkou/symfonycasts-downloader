@@ -1255,6 +1255,27 @@
         "target-path-trait": "\/screencast\/fosuserbundle\/target-path-trait",
         "guard-authenticator": "\/screencast\/fosuserbundle\/guard-authenticator"
     },
+    "EasyAdmin! For an Awesomely Powerful Admin Area": {
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
+    },
     "EasyAdminBundle for an Amazing Admin Interface": {
         "bundle-install": "\/screencast\/easyadminbundle\/bundle-install",
         "design-security": "\/screencast\/easyadminbundle\/design-security",
@@ -2417,6 +2438,15 @@
         "verify-email#play": "screencast/symfony-security/verify-email#play",
         "verify-signed-url#play": "screencast/symfony-security/verify-signed-url#play",
         "login-throttling#play": "screencast/symfony-security/login-throttling#play",
-        "security-listeners#play": "screencast/symfony-security/security-listeners#play"
+        "security-listeners#play": "screencast/symfony-security/security-listeners#play",
+        "security-listeners": "screencast/symfony-security/security-listeners",
+        "security-subscriber": "screencast/symfony-security/security-subscriber",
+        "login-failure#play": "screencast/symfony-security/login-failure#play",
+        "scheb-2fa#play": "screencast/symfony-security/scheb-2fa#play",
+        "totp#play": "screencast/symfony-security/totp#play",
+        "activating-2fa#play": "screencast/symfony-security/activating-2fa#play",
+        "qr-code#play": "screencast/symfony-security/qr-code#play",
+        "authenticator-app#play": "screencast/symfony-security/authenticator-app#play",
+        "2fa-customize": "screencast/symfony-security/2fa-customize"
     }
 }
